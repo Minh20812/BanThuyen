@@ -1,4 +1,4 @@
-# Dự Án Game Bắn Thuyền
+# Dự Án Game Bắn Thuyền (WIP: Work In Progress)
 
 ## Giới Thiệu
 Dự án này là một game bắn thuyền được phát triển bằng React, TailwindCSS, Socket.IO và MERN (MongoDB, Express, React, Node.js). Game cho phép người chơi tham gia vào các trận chiến trên biển, tương tác với nhau theo thời gian thực.
