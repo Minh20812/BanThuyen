@@ -35,8 +35,8 @@ Dự án này là một game bắn thuyền được phát triển bằng React,
 Nếu bạn muốn đóng góp cho dự án, vui lòng tạo một pull request với mô tả chi tiết về thay đổi bạn đã thực hiện.
 
 ## Liên Hệ
-- **Nguyen Quang Minh**: [Email của bạn](mailto:ngquangminh2128@gmail.com)
-- **GitHub**: [Tên người dùng GitHub](https://github.com/Minh20812)
+- **Nguyen Quang Minh**: [ngquangminh2128@gmail.com](mailto:ngquangminh2128@gmail.com)
+- **GitHub**: [Minh (minova)](https://github.com/Minh20812)
 
 ## Giấy Phép
 Dự án này được cấp phép theo giấy phép MIT. Xem file LICENSE để biết thêm chi tiết.
